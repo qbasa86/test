@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans
+﻿@import url(https://fonts.googleapis.com/css?family=Open+Sans
 	:400,300,300italic,400italic,600,600italic,700,700italic);
 * {
 	box-sizing: border-box;
@@ -366,7 +366,7 @@ section.footer ul li a {
 	transition: .3s;
 }
 section.footer ul li a:hover {
-	transform:scale(1.3);
+	transform:scale(1.2);
 	transition: .3s;
 }
 section.footer h2::after {
